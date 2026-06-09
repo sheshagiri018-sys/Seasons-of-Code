@@ -1,4 +1,4 @@
-# Seasons-of-Code
+# Seasons-of-Code💐✨
 🍃 Seasons in Motion 🌞🍂❄️
 <div align="center">
 🌍 Welcome to My Seasonal Portfolio
