@@ -24,16 +24,16 @@ Each season symbolizes a different stage of my growth as an engineer, developer,
 
 🎨 Features
 
-✨ Smooth Season Transitions
-🌸 Animated Falling Petals
-☀️ Dynamic Summer Effects
-🍂 Floating Autumn Leaves
-❄️ Snowfall & Winter Atmosphere
-🚀 Interactive User Experience
-📱 Fully Responsive Design
-⚡ Fast Performance
-🎯 Modern UI/UX Design
-🎭 Immersive Storytelling
+✨ Smooth Season Transitions.
+🌸 Animated Falling Petals.
+☀️ Dynamic Summer Effects.
+🍂 Floating Autumn Leaves.
+❄️ Snowfall & Winter Atmosphere.
+🚀 Interactive User Experience.
+📱 Fully Responsive Design.
+⚡ Fast Performance.
+🎯 Modern UI/UX Design.
+🎭 Immersive Storytelling.
 
 🛠️ Technologies Used
 🌐 HTML5
